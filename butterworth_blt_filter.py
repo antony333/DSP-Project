@@ -12,7 +12,7 @@ import math
 import scipy.io as spio
 from scipy.signal import TransferFunction as tf
 
-st.markdown("<h1 style='text-align: center; color: white;font-size: 40px;'>Design and Implementation of Highpass IIR Filter For ECG Signal Using Butterworth and BLT</h1>",
+st.markdown("<h1 style='text-align: center; color: red;font-size: 40px;'>Design and Implementation of Highpass IIR Filter For ECG Signal Using Butterworth and BLT</h1>",
             unsafe_allow_html=True)
 st.sidebar.markdown("By Antony Jerald ")
 st.sidebar.markdown("121901004")
